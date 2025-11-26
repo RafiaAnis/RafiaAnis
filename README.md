@@ -73,7 +73,7 @@ My work focuses on building **AI-powered systems** that combine engineering dept
 
 ---
 
-## 🧩 Featured Projects (Showcase)
+## 🧩 Featured Projects
 
 ### 🔹 **AI Multi-Agent Workflow Engine**  
 > A LangGraph + Agno powered multi-agent pipeline for enterprise automation.
@@ -131,19 +131,6 @@ Developed **content management systems** tailored to business workflows:
 - Blog/article management  
 - Form builder & custom fields  
 > Tech: Laravel, Node.js, PostgreSQL, React, jQuery, Bootstrap
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RafiaAnis" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api?username=RafiaAnis&show_icons=true" height="180" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RafiaAnis&layout=compact" height="180" />
-</p>
 
 ---
 
